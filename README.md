@@ -22,11 +22,6 @@ I am a senior Computer Engineering student at Çukurova University, deeply passi
 
 ---
 
-### 📈 GitHub Stats
-![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafaerendalgic&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaerendalgic&layout=compact&theme=radical)
-
----
 
 ### 📫 Connect with me:
 - **LinkedIn:** [linkedin.com/in/mustafaerendalgic](https://www.linkedin.com/in/mustafaerendalgic/)

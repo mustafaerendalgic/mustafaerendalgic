@@ -6,7 +6,7 @@ I am a senior Computer Engineering student at Çukurova University, deeply passi
 ---
 
 ### 🛠 Tech Stack & Tools
-- **Languages:** Kotlin (Primary), Java, C++, SQL
+- **Languages:** Kotlin (Primary), Java, C++
 - **Mobile Tech:** XML (View System), Jetpack Compose (Basic), Android SDK
 - **Backend/Tools:** Firebase (Auth, Firestore, Real-time DB), REST APIs, Retrofit
 - **Design:** Figma (UI/UX Design)
